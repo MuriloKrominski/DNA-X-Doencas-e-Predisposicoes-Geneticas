@@ -2,6 +2,9 @@
 
 Idealizado e criado por Murilo Krominski, este é o primeiro Analisador de DNA X Doenças e Predisposições Genéticas gratuito, de código aberto e colaborativo (OpenSource no GitHub).
 
+<a href="https://colab.research.google.com/github/MuriloKrominski/DNA-X-Doencas-e-Predisposicoes-Geneticas/blob/main/Analisador_de_DNA_X_Doen%C3%A7as_e_Predisposi%C3%A7%C3%B5es_Gen%C3%A9ticas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 0"/></a><br>
+https://murilokrominski.github.io (Outros trabalhos)
+
 Dedico esse trabalho para quem tem interesse em Genética/Ciência de Dados e aos que querem saber sobre suas predisposições genéticas de saúde, mas que não teriam acesso a um plano "premium" de sequenciamento genético, devido ao custo ainda muito elevado, e teriam portanto, apenas acesso a um plano básico.
 
 Qualquer pessoa que possua os dados Brutos do seu DNA (Raw Data), poderá com este trabalho saber mais sobre si, tendo acesso a informações extremamente valiosas (que acredito que todos deveriam ter desde a infância).
