@@ -137,7 +137,7 @@ Informações sobre como o seu DNA impacta no seu envelhecimento. Saber o que a 
 resultado.xlsx
 resultado.csv
 
-|index|RSID+CHROMOSOME+RESULT|DISEASE|
+|RSID+CHROMOSOME+RESULT|DISEASE|
 |---|---|
 |rs2707466 7 TT|Corpo - Densidade óssea \(força dos ossos\) - Predisposição para maior densidade óssea https://grch37\.ensembl\.org/Homo\_sapiens/Variation/Explore?v=rs2707466|
 |rs12722 9 CT|Corpo - Dor muscular pós-exercício - Maior dor muscular https://grch37\.ensembl\.org/Homo\_sapiens/Variation/Explore?v=rs12722|
