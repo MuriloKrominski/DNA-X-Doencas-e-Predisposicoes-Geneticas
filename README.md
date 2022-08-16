@@ -2,15 +2,15 @@
 Contato: murilo.krominski@fgv.edu.br - Murilo Krominski
 
 <p><a href="https://colab.research.google.com/github/MuriloKrominski/DNA-X-Doencas-e-Predisposicoes-Geneticas/blob/main/Analisador_de_DNA_X_Predisposi%C3%A7%C3%B5es_Gen%C3%A9ticas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 0"/></a><br>
-<a href="https://github.com/MuriloKrominski/DNA-X-Doencas-e-Predisposicoes-Geneticas">  
 
 ---
-> **Considere apoiar este trabalho para permitir futuras atualizações:**
+Considere apoiar este trabalho para permitir futuras atualizações:
 
-*   **Murilo Krominski PIX:contato@krominski.com.br**
+Murilo Krominski PIX:contato@krominski.com.br
 
-*   **Faça um exame genético no conforto de sua casa, e descubra o que o seu DNA diz sobre você:**
-https://acesse.vc/v2/22245443321 Testes genéticos a partir de R$ 200,00.
+Faça um exame genético no conforto de sua casa, e descubra o que o seu DNA diz sobre você:
+https://acesse.vc/v2/22245443321 (Testes genéticos a partir de R$ 200,00.)
+  
 ---
 
 A maioria dos laboratórios que fazem exames genéticos, disponibilizam os dados brutos do DNA analisado para download (aproximadamente 650.000 linhas).
