@@ -1,6 +1,9 @@
 # Analisador de DNA X Predisposições Genéticas
 Contato: murilo.krominski@fgv.edu.br - Murilo Krominski
 
+<p><a href="https://colab.research.google.com/github/MuriloKrominski/DNA-X-Doencas-e-Predisposicoes-Geneticas/blob/main/Analisador_de_DNA_X_Predisposi%C3%A7%C3%B5es_Gen%C3%A9ticas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 0"/></a><br>
+<a href="https://github.com/MuriloKrominski/DNA-X-Doencas-e-Predisposicoes-Geneticas">  
+
 ---
 > **Considere apoiar este trabalho para permitir futuras atualizações:**
 
@@ -187,6 +190,8 @@ A partir de uma análise do DNA mitocondrial (mtDNA), sendo possível traçar o 
 Apenas a linhagem matrilinear, ou seja, a mãe, avó materna, bisavó materna, trisavó materna e, assim, sucessivamente, até milhares de anos atrás).
 
 O haplogrupo H apareceu há cerca de 20 a 30 mil anos, descendendo da linhagem HV. Após seu surgimento, saiu do Oriente Médio, espalhando-se principalmente pela Europa e também pelo norte da África. Atualmente, existem cerca de 100 ramificações dentro do haplogrupo H.
+
+![ScreenHunter_16 Aug  16 16 52](https://user-images.githubusercontent.com/67916535/184986578-48c31818-a59e-4a0a-bf1c-46df8f5f19e9.png)
 
 |index|RSID+CHROMOSOME+RESULT|PHENOTYPE|
 |---|---|---|
