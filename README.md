@@ -7,9 +7,10 @@ Contato: murilo.krominski@fgv.edu.br - Murilo Krominski
 ---
 > **Considere apoiar este trabalho para permitir futuras atualizações:**
 
-*   `Murilo Krominski PIX:contato@krominski.com.br`
+*   **Murilo Krominski PIX:contato@krominski.com.br**
 
-*   `Faça um exame genético no conforto de sua casa, e descubra o que o seu DNA diz sobre você:` https://acesse.vc/v2/22245443321 Testes genéticos a partir de R$ 200,00.
+*   **Faça um exame genético no conforto de sua casa, e descubra o que o seu DNA diz sobre você:**
+https://acesse.vc/v2/22245443321 Testes genéticos a partir de R$ 200,00.
 ---
 
 A maioria dos laboratórios que fazem exames genéticos, disponibilizam os dados brutos do DNA analisado para download (aproximadamente 650.000 linhas).
