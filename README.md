@@ -22,7 +22,7 @@ O meu banco de dados de fenótipos integra dados dos maiores bancos de dados gen
 
 Este trabalho contempla, com base no seu DNA, desde o descobrimento de variantes genéticas associadas ao desenvolvimentos de doenças, informações de como o seu corpo reage a determinados medicamentos, como o seu corpo absorve e interage com certos nutrientes e vitaminas, qual a eficácia de determinadas dietas, características da sua pele, características relacionadas ao envelhecimento, e curiosidades como predisposição ao alcoolismo, e muito mais.
 
-O analisador é bem simples para quem sabe trabalhar com dados, e seu código pode ser visto no meu Repositório β (público) no GitHub.
+O analisador pode ser visto no meu Repositório β (público) no GitHub.
 Quanto ao trabalho de web scraping para formação e atualização do Banco de Dados, bem como o próprio Banco de Dados, este não estarei divulgando, ao menos neste primeiro momento, em que ainda não me decidi quanto ao fim pretendido, se irei disponibilizar gratuitamente para pesquisadores, se irei vender este trabalho ou vender serviços relacionados a este.
 
 Acredito que poderei ajudar no descobrimento de predisposições genéticas em primeira mão ao pesquisador brasileiro e internacional, e poderei também fornecer aos laboratórios clínicos e farmácias uma ferramenta revolucionária para a prevenção de doenças antes delas acontecerem, bem como ferramentas de desempenho atlético para centros esportivos e dados nutricionais para academias, tudo isso com um teste simples de raspagem de cotonete na bochecha, e posterior tratamento de dados, por um valor absurdamente baixo em relação ao benefício fornecido.
